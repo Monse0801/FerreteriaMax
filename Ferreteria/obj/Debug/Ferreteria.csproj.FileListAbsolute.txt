@@ -1,0 +1,14 @@
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\obj\Debug\Ferreteria.csproj.AssemblyReference.cache
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\obj\Debug\Ferreteria.Properties.Resources.resources
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\obj\Debug\Ferreteria.csproj.GenerateResource.cache
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\obj\Debug\Ferreteria.csproj.CoreCompileInputs.cache
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\obj\Debug\Ferreteria.MainForm.resources
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\obj\Debug\Ferreteria.ProductoForm.resources
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\obj\Debug\Ferreteria.VentasForm.resources
+C:\Users\monse\source\repos\Ferreteria_MAX\Ferreteria\obj\Debug\Ferreteria.InventarioForm.resources
